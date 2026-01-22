@@ -1,0 +1,10 @@
+{
+    "name": "Moving Average Crossover",
+    "exchange": "binance",
+    "symbol": "BTC/USDT",
+    "timeframe": "1h",
+    "trade_amount": 0.001,
+    "fast_period": 10,
+    "slow_period": 30,
+    "enabled": true
+}
